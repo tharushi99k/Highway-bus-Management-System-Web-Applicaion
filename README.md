@@ -14,7 +14,11 @@ Role: Full Stack Developer
 
 # Outputs
 
-![Login](https://github.com/tharushi99k/Highway-bus-Management-System-Web-Applicaion/assets/121074201/6cb8290a-a35e-4af1-97d3-1460d0dad294)
+![Login](https://github.com/tharushi99k/Highway-bus-Management-System-Web-Applicaion/assets/121074201/cf47ac1f-2d8c-4593-b7ef-6fe204096716)
 
+![Signin](https://github.com/tharushi99k/Highway-bus-Management-System-Web-Applicaion/assets/121074201/258e6611-e1ba-4684-abce-14204e9b278e)
 
+![Bus schedule](https://github.com/tharushi99k/Highway-bus-Management-System-Web-Applicaion/assets/121074201/ef5aa380-14be-4f20-9ad9-83cf5c22666d)
+
+![Uploading bus schedule update.png…]()
 
